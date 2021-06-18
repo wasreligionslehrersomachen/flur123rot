@@ -33,6 +33,12 @@
          "id":58,
          "name":"info_12307",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12307\/2021\/06\/12\/hallo-welt\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
@@ -63,6 +69,12 @@
          "id":59,
          "name":"info_12308",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
@@ -93,6 +105,12 @@
          "id":60,
          "name":"info_12309",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
@@ -123,6 +141,12 @@
          "id":61,
          "name":"info_12310",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
@@ -153,6 +177,12 @@
          "id":62,
          "name":"info_12311",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
@@ -183,6 +213,12 @@
          "id":63,
          "name":"info_12312",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
